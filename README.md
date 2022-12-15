@@ -1,2 +1,3 @@
-# se-python-sample
+# Software Engineering course
+
 SE Python sample
